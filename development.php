@@ -4,10 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Experience Place - N31L_Z</title>
+    <title>In Development</title>
 </head>
 <body>
-    <h1>In development</h1>
-    <p>This page still in development, you can</p>
+    <h1>In Development</h1><p>This page is currently in development</p>
 </body>
 </html>
